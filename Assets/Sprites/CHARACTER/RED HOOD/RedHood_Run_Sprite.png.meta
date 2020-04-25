@@ -1,14 +1,15 @@
 fileFormatVersion: 2
-guid: de8c1a50dd2baaf4186fe6d1cfd7bbfc
+guid: b8403f8e7d9a59f439b0838378366cc7
 TextureImporter:
   fileIDToRecycleName:
-    21300000: RedHood_Running_Sprite_0
-    21300002: RedHood_Running_Sprite_1
-    21300004: RedHood_Running_Sprite_2
-    21300006: RedHood_Running_Sprite_3
-    21300008: RedHood_Running_Sprite_4
-    21300010: RedHood_Running_Sprite_5
-    21300012: RedHood_Running_Sprite_6
+    21300000: RedHood_Run_Sprite_0
+    21300002: RedHood_Run_Sprite_1
+    21300004: RedHood_Run_Sprite_2
+    21300006: RedHood_Run_Sprite_3
+    21300008: RedHood_Run_Sprite_4
+    21300010: RedHood_Run_Sprite_5
+    21300012: RedHood_Run_Sprite_6
+    21300014: RedHood_Run_Sprite_7
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -110,7 +111,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RedHood_Running_Sprite_0
+      name: RedHood_Run_Sprite_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,7 +125,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Running_Sprite_1
+      name: RedHood_Run_Sprite_1
       rect:
         serializedVersion: 2
         x: 800
@@ -138,7 +139,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Running_Sprite_2
+      name: RedHood_Run_Sprite_2
       rect:
         serializedVersion: 2
         x: 1600
@@ -152,7 +153,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Running_Sprite_3
+      name: RedHood_Run_Sprite_3
       rect:
         serializedVersion: 2
         x: 2400
@@ -166,7 +167,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Running_Sprite_4
+      name: RedHood_Run_Sprite_4
       rect:
         serializedVersion: 2
         x: 3200
@@ -180,7 +181,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Running_Sprite_5
+      name: RedHood_Run_Sprite_5
       rect:
         serializedVersion: 2
         x: 4000
@@ -194,10 +195,24 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Running_Sprite_6
+      name: RedHood_Run_Sprite_6
       rect:
         serializedVersion: 2
         x: 4800
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedHood_Run_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 5600
         y: 0
         width: 800
         height: 800

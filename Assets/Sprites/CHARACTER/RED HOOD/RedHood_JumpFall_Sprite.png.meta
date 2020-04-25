@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 71467b493b5797149b2b108ab93992cb
+guid: e647e48f5056ade4e9074a8eff9d06a6
 TextureImporter:
   fileIDToRecycleName:
     21300000: RedHood_JumpFall_Sprite_0
@@ -7,6 +7,7 @@ TextureImporter:
     21300004: RedHood_JumpFall_Sprite_2
     21300006: RedHood_JumpFall_Sprite_3
     21300008: RedHood_JumpFall_Sprite_4
+    21300010: RedHood_JumpFall_Sprite_5
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -168,6 +169,20 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 3200
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RedHood_JumpFall_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 4000
         y: 0
         width: 800
         height: 800

@@ -1,16 +1,13 @@
 fileFormatVersion: 2
-guid: 940724940f13042439b9e3d7a41e63c5
+guid: 3958717cae5933a48a3151074bf1d8b8
 TextureImporter:
   fileIDToRecycleName:
-    21300000: RedHood_Jump_Sprite_0
-    21300002: RedHood_Jump_Sprite_1
-    21300004: RedHood_Jump_Sprite_2
-    21300006: RedHood_Jump_Sprite_3
-    21300008: RedHood_Jump_Sprite_4
-    21300010: RedHood_Jump_Sprite_5
-    21300012: RedHood_Jump_Sprite_6
-    21300014: RedHood_Jump_Sprite_7
-    21300016: RedHood_Jump_Sprite_8
+    21300000: RedHood_Jump_Attack_Kick_0
+    21300002: RedHood_Jump_Attack_Kick_1
+    21300004: RedHood_Jump_Attack_Kick_2
+    21300006: RedHood_Jump_Attack_Kick_3
+    21300008: RedHood_Jump_Attack_Kick_4
+    21300010: RedHood_Jump_Attack_Kick_5
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -112,7 +109,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RedHood_Jump_Sprite_0
+      name: RedHood_Jump_Attack_Kick_0
       rect:
         serializedVersion: 2
         x: 0
@@ -126,7 +123,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Jump_Sprite_1
+      name: RedHood_Jump_Attack_Kick_1
       rect:
         serializedVersion: 2
         x: 800
@@ -140,7 +137,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Jump_Sprite_2
+      name: RedHood_Jump_Attack_Kick_2
       rect:
         serializedVersion: 2
         x: 1600
@@ -154,7 +151,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Jump_Sprite_3
+      name: RedHood_Jump_Attack_Kick_3
       rect:
         serializedVersion: 2
         x: 2400
@@ -168,7 +165,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Jump_Sprite_4
+      name: RedHood_Jump_Attack_Kick_4
       rect:
         serializedVersion: 2
         x: 3200
@@ -182,52 +179,10 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Jump_Sprite_5
+      name: RedHood_Jump_Attack_Kick_5
       rect:
         serializedVersion: 2
         x: 4000
-        y: 0
-        width: 800
-        height: 800
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RedHood_Jump_Sprite_6
-      rect:
-        serializedVersion: 2
-        x: 4800
-        y: 0
-        width: 800
-        height: 800
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RedHood_Jump_Sprite_7
-      rect:
-        serializedVersion: 2
-        x: 5600
-        y: 0
-        width: 800
-        height: 800
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RedHood_Jump_Sprite_8
-      rect:
-        serializedVersion: 2
-        x: 7200
         y: 0
         width: 800
         height: 800

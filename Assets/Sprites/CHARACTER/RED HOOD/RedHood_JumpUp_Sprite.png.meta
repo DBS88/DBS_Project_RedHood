@@ -1,16 +1,11 @@
 fileFormatVersion: 2
-guid: 940724940f13042439b9e3d7a41e63c5
+guid: 3074ea034a36db74ea65442e8a5696b3
 TextureImporter:
   fileIDToRecycleName:
-    21300000: RedHood_Jump_Sprite_0
-    21300002: RedHood_Jump_Sprite_1
-    21300004: RedHood_Jump_Sprite_2
-    21300006: RedHood_Jump_Sprite_3
-    21300008: RedHood_Jump_Sprite_4
-    21300010: RedHood_Jump_Sprite_5
-    21300012: RedHood_Jump_Sprite_6
-    21300014: RedHood_Jump_Sprite_7
-    21300016: RedHood_Jump_Sprite_8
+    21300000: RedHood_JumpUp_Sprite_0
+    21300002: RedHood_JumpUp_Sprite_1
+    21300004: RedHood_JumpUp_Sprite_2
+    21300006: RedHood_JumpUp_Sprite_3
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -112,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RedHood_Jump_Sprite_0
+      name: RedHood_JumpUp_Sprite_0
       rect:
         serializedVersion: 2
         x: 0
@@ -126,7 +121,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Jump_Sprite_1
+      name: RedHood_JumpUp_Sprite_1
       rect:
         serializedVersion: 2
         x: 800
@@ -140,7 +135,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Jump_Sprite_2
+      name: RedHood_JumpUp_Sprite_2
       rect:
         serializedVersion: 2
         x: 1600
@@ -154,80 +149,10 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Jump_Sprite_3
+      name: RedHood_JumpUp_Sprite_3
       rect:
         serializedVersion: 2
         x: 2400
-        y: 0
-        width: 800
-        height: 800
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RedHood_Jump_Sprite_4
-      rect:
-        serializedVersion: 2
-        x: 3200
-        y: 0
-        width: 800
-        height: 800
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RedHood_Jump_Sprite_5
-      rect:
-        serializedVersion: 2
-        x: 4000
-        y: 0
-        width: 800
-        height: 800
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RedHood_Jump_Sprite_6
-      rect:
-        serializedVersion: 2
-        x: 4800
-        y: 0
-        width: 800
-        height: 800
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RedHood_Jump_Sprite_7
-      rect:
-        serializedVersion: 2
-        x: 5600
-        y: 0
-        width: 800
-        height: 800
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RedHood_Jump_Sprite_8
-      rect:
-        serializedVersion: 2
-        x: 7200
         y: 0
         width: 800
         height: 800

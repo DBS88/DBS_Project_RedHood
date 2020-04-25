@@ -1,21 +1,17 @@
 fileFormatVersion: 2
-guid: 395790445de9eff4b9b0b83be3307567
+guid: 5e450bdffe14cbf45a21ffe818edda01
 TextureImporter:
   fileIDToRecycleName:
-    21300000: RedHood_Attack_KickFlipper_0
-    21300002: RedHood_Attack_KickFlipper_1
-    21300004: RedHood_Attack_KickFlipper_2
-    21300006: RedHood_Attack_KickFlipper_3
-    21300008: RedHood_Attack_KickFlipper_4
-    21300010: RedHood_Attack_KickFlipper_5
-    21300012: RedHood_Attack_KickFlipper_6
-    21300014: RedHood_Attack_KickFlipper_7
-    21300016: RedHood_Attack_KickFlipper_8
-    21300018: RedHood_Attack_KickFlipper_9
-    21300020: RedHood_Attack_KickFlipper_10
-    21300022: RedHood_Attack_KickFlipper_11
-    21300024: RedHood_Attack_KickFlipper_12
-    21300026: RedHood_Attack_KickFlipper_13
+    21300000: RedHood_Attack_Kick_0
+    21300002: RedHood_Attack_Kick_1
+    21300004: RedHood_Attack_Kick_2
+    21300006: RedHood_Attack_Kick_3
+    21300008: RedHood_Attack_Kick_4
+    21300010: RedHood_Attack_Kick_5
+    21300012: RedHood_Attack_Kick_6
+    21300014: RedHood_Attack_Kick_7
+    21300016: RedHood_Attack_Kick_8
+    21300018: RedHood_Attack_Kick_9
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -117,11 +113,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_0
+      name: RedHood_Attack_Kick_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 800
+        y: 0
         width: 800
         height: 800
       alignment: 0
@@ -131,11 +127,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_1
+      name: RedHood_Attack_Kick_1
       rect:
         serializedVersion: 2
         x: 800
-        y: 800
+        y: 0
         width: 800
         height: 800
       alignment: 0
@@ -145,11 +141,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_2
+      name: RedHood_Attack_Kick_2
       rect:
         serializedVersion: 2
         x: 1600
-        y: 800
+        y: 0
         width: 800
         height: 800
       alignment: 0
@@ -159,11 +155,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_3
+      name: RedHood_Attack_Kick_3
       rect:
         serializedVersion: 2
         x: 2400
-        y: 800
+        y: 0
         width: 800
         height: 800
       alignment: 0
@@ -173,11 +169,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_4
+      name: RedHood_Attack_Kick_4
       rect:
         serializedVersion: 2
         x: 3200
-        y: 800
+        y: 0
         width: 800
         height: 800
       alignment: 0
@@ -187,11 +183,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_5
+      name: RedHood_Attack_Kick_5
       rect:
         serializedVersion: 2
         x: 4000
-        y: 800
+        y: 0
         width: 800
         height: 800
       alignment: 0
@@ -201,11 +197,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_6
+      name: RedHood_Attack_Kick_6
       rect:
         serializedVersion: 2
         x: 4800
-        y: 800
+        y: 0
         width: 800
         height: 800
       alignment: 0
@@ -215,24 +211,10 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_7
+      name: RedHood_Attack_Kick_7
       rect:
         serializedVersion: 2
         x: 5600
-        y: 800
-        width: 800
-        height: 800
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_8
-      rect:
-        serializedVersion: 2
-        x: 0
         y: 0
         width: 800
         height: 800
@@ -243,10 +225,10 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_9
+      name: RedHood_Attack_Kick_8
       rect:
         serializedVersion: 2
-        x: 800
+        x: 6400
         y: 0
         width: 800
         height: 800
@@ -257,52 +239,10 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_10
+      name: RedHood_Attack_Kick_9
       rect:
         serializedVersion: 2
-        x: 1600
-        y: 0
-        width: 800
-        height: 800
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_11
-      rect:
-        serializedVersion: 2
-        x: 2400
-        y: 0
-        width: 800
-        height: 800
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_12
-      rect:
-        serializedVersion: 2
-        x: 3200
-        y: 0
-        width: 800
-        height: 800
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: RedHood_Attack_KickFlipper_13
-      rect:
-        serializedVersion: 2
-        x: 4000
+        x: 7200
         y: 0
         width: 800
         height: 800
